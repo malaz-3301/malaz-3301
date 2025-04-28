@@ -2,7 +2,7 @@
 #### ⚙️ I'm a self-taught passionate BackEnd developer 
 <img 
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" 
-  width="680px" 
+  width="660px" 
   height="300px" 
   alt="ThoughtWorks animation gif" 
 />
