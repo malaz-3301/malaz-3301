@@ -24,18 +24,19 @@ Skills:
 <code>
   <a target="_blank" rel="noopener noreferrer nofollow"
      href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
-    <img align="left" height="10" alt="Laravel"
+    <img align="left" height="20"
          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"
          style="max-width:100%;">
   </a>
 </code><code>
   <a target="_blank" rel="noopener noreferrer nofollow"
      href="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png">
-    <img align="left" height="10" alt="NestJS"
+    <img align="left" height="20" alt="NestJS"
          src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"
          style="max-width:100%;">
   </a>
 </code>
+
 
 
 
