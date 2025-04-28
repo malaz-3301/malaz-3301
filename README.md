@@ -1,5 +1,6 @@
 ### Hello ! I'm Malaz
-#### ⚙️ I'm a self-taught passionate BackEnd developer <img 
+#### ⚙️ I'm a self-taught passionate BackEnd developer 
+<img 
   src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg"
   width="380px" 
   height="220px" 
