@@ -1,9 +1,9 @@
 ### Hello ! I'm Malaz
 #### ⚙️ I'm a self-taught passionate BackEnd developer 
 <img 
-  src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" 
-  width="900px" 
-  height="500px" 
+  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" 
+  width="800px" 
+  height="300px" 
   alt="ThoughtWorks animation gif" 
 />
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
