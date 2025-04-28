@@ -1,13 +1,7 @@
 ### Hello ! I'm Malaz
 #### ⚙️ I'm a self-taught passionate BackEnd developer
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg"><img height="20" alt="laravel" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg" style="max-width: 100%;"></a></code>
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg" 
-    alt="علم سوريا الجديد" 
-    height="17" 
-    style="display:block;"
-  >
-</a>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg"><img height="20" alt="syria flag" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg" style="max-width: 100%;"></a></code>
+
 
 
 <img 
