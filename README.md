@@ -3,7 +3,7 @@
 <img 
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" 
   width="500px" 
-  height="250px" 
+  height="240px" 
   alt="ThoughtWorks animation gif" 
 />
 
