@@ -10,8 +10,10 @@ Skills: Skills: Java / JS / Laravel / NestJs
 <img 
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" 
   width="1000px" 
-  alt="gif of ThoughtWorks animation" 
+  height="200px" 
+  alt="ThoughtWorks animation gif" 
 />
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/malaz-ahmad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/malaz.ahmad3301)  
