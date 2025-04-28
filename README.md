@@ -10,7 +10,7 @@ Skills: Skills: Java / JS / Laravel / NestJs
 <img 
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" 
   width="1000px" 
-  height="200px" 
+  height="400px" 
   alt="ThoughtWorks animation gif" 
 />
 
