@@ -1,6 +1,6 @@
 ### Hello ! I'm Malaz
 #### ⚙️ I'm a self-taught passionate BackEnd developer <img 
-  alt="syria flag" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg"
+  src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg"
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" 
   width="380px" 
   height="220px" 
