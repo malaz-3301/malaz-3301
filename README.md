@@ -1,6 +1,5 @@
 ### Hello ! I'm Malaz
-#### ⚙️ I'm a self-taught passionate BackEnd developer 
-<code style="background: none; padding: 0; border: none;">
+#### ⚙️ I'm a self-taught passionate BackEnd developer <code style="background: none; padding: 0; border: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg" alt="علم سوريا الجديد" height="17" style="position: relative; top: 4px;">
 </code>
 
