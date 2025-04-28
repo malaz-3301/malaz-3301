@@ -1,6 +1,9 @@
 ### Hello ! I'm Malaz
 #### ⚙️ I'm a self-taught passionate BackEnd developer 
-<code><img height="20" alt="laravel" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg" style="max-width: 100%;"></code>
+<code><img height="20" alt="laravel" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg" style="max-width: 100%;   max-width: 100%;
+      display: inline-block;
+      position: relative;
+      top: 4px;"></code>
 
 <img 
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" 
