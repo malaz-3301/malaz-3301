@@ -13,6 +13,7 @@ it allows you to create nice and simple GitHub Readme files that you can copy/pa
 Skills:
  * Java
  * JS
+ * Html
  * Laravel
  * NestJs 
 
