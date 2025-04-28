@@ -2,8 +2,8 @@
 #### ⚙️ I'm a self-taught passionate BackEnd developer 
 <img 
   src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" 
-  width="500px" 
-  height="240px" 
+  width="400px" 
+  height="220px" 
   alt="ThoughtWorks animation gif" 
 />
 
