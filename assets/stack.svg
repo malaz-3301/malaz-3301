@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="228" viewBox="0 0 1100 228" role="img" aria-labelledby="title desc">
+  <title id="title">Technology stack</title>
+  <desc id="desc">Backend, data, and infrastructure technologies used by Mohammad Malaz Ahmad.</desc>
+  <style>
+    .category { fill: #8b949e; font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; letter-spacing: 2px; }
+    .tech { fill: #f0f6fc; font: 600 21px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+    .divider { stroke: #30363d; stroke-width: 1; }
+    .icon { fill: none; stroke: #f97316; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
+    @media (prefers-color-scheme: light) {
+      .category { fill: #57606a; }
+      .tech { fill: #24292f; }
+      .divider { stroke: #d0d7de; }
+    }
+  </style>
+
+  <g transform="translate(24 18)">
+    <g class="icon" transform="translate(0 4)">
+      <path d="m3 19 10-9M3 19l10 9M35 10l10 9-10 9M27 4l-8 30"/>
+    </g>
+    <text class="category" x="72" y="14">BACKEND</text>
+    <text class="tech" x="72" y="43">NestJS  ·  Spring Boot  ·  Laravel  ·  FastAPI</text>
+    <path class="divider" d="M72 66h980"/>
+  </g>
+
+  <g transform="translate(24 90)">
+    <g class="icon" transform="translate(0 2)">
+      <ellipse cx="24" cy="8" rx="20" ry="7"/>
+      <path d="M4 8v25c0 4 9 7 20 7s20-3 20-7V8M4 20c0 4 9 7 20 7s20-3 20-7"/>
+    </g>
+    <text class="category" x="72" y="14">DATA</text>
+    <text class="tech" x="72" y="43">PostgreSQL  ·  PostGIS  ·  Redis</text>
+    <path class="divider" d="M72 66h980"/>
+  </g>
+
+  <g transform="translate(24 162)">
+    <g class="icon" transform="translate(0 1)">
+      <circle cx="8" cy="21" r="5"/>
+      <circle cx="40" cy="8" r="5"/>
+      <circle cx="40" cy="34" r="5"/>
+      <path d="M13 19 35 10M13 23l22 9"/>
+    </g>
+    <text class="category" x="72" y="14">INFRASTRUCTURE</text>
+    <text class="tech" x="72" y="43">RabbitMQ  ·  Docker</text>
+  </g>
+</svg>
