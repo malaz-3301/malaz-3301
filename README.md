@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Mohammad Malaz Ahmad — Backend Developer" />
+  <img src="./assets/profile-header-malaz.svg" width="100%" alt="Malaz Ahmad — Backend Developer" />
 </p>
 
 <p align="center">
@@ -14,16 +14,13 @@
 
 <br>
 
-I build backend systems where **correctness, data, and architecture** matter. My work centers on reliable APIs, database behavior, maintainable application structure, and the tests that keep those pieces dependable.
-
-I am also a fifth-year Information Engineering student at Damascus University, specializing in Artificial Intelligence. I use AI and NLP when they solve a real product problem—not simply to add another tool to the stack.
+I build reliable backend systems with a focus on **clean APIs, data integrity, and maintainable architecture**.
 
 ### Engineering focus
 
-- Designing clear API contracts and backend modules with focused responsibilities
-- Working with relational and geospatial data, caching, and concurrent operations
-- Applying authentication, authorization, validation, and performance testing
-- Making services documented, testable, and reproducible
+- API and backend module design
+- Relational and geospatial data, caching, and concurrency
+- Security, testing, documentation, and containerization
 
 ### Working with
 
